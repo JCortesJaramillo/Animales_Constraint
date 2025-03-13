@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Correo</string>
-    <!-- Strings used for fragments for navigation -->
     <string name="nombre">Nombre:</string>
     <string name="Raza">Raza:</string>
     <string name="Edad">Edad:</string>
